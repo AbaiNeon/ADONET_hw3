@@ -1,0 +1,6 @@
+C:\Users\Abai\Desktop\ADONET_hw3\ADONET_hw3\bin\Debug\ADONET_hw3.exe.config
+C:\Users\Abai\Desktop\ADONET_hw3\ADONET_hw3\bin\Debug\ADONET_hw3.exe
+C:\Users\Abai\Desktop\ADONET_hw3\ADONET_hw3\bin\Debug\ADONET_hw3.pdb
+C:\Users\Abai\Desktop\ADONET_hw3\ADONET_hw3\obj\Debug\ADONET_hw3.csprojResolveAssemblyReference.cache
+C:\Users\Abai\Desktop\ADONET_hw3\ADONET_hw3\obj\Debug\ADONET_hw3.exe
+C:\Users\Abai\Desktop\ADONET_hw3\ADONET_hw3\obj\Debug\ADONET_hw3.pdb
